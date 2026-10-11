@@ -1,0 +1,3 @@
+/Users/gal/Documents/SDProjects/assigment2/cmake-build-debug/CMakeFiles/assigment2.dir
+/Users/gal/Documents/SDProjects/assigment2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gal/Documents/SDProjects/assigment2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
